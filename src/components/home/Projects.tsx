@@ -139,7 +139,7 @@ const Projects = () => {
               />
             )}
             
-            {/* Subtle screen reflections */}
+            {/* Subtle reflections */}
             <div className="absolute inset-0 bg-gradient-to-br from-white/10 to-transparent opacity-30 pointer-events-none"></div>
           </div>
           
